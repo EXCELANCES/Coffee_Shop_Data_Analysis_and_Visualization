@@ -97,14 +97,6 @@ Illustrates coffee sales distribution by type. Percentages update dynamically ba
 
 ---
 
-## 🎓 Author
-
-**Ertugrul Asliyuce**
-Dublin Business School
-Student ID: 20047046
-Date: March 7, 2025
-
----
 
 ## 🔧 Technologies Used
 
